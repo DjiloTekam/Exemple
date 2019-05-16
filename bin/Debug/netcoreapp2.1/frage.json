@@ -1,0 +1,489 @@
+{
+	"frage": [
+		{
+			"frage": "Welchen Zählerstand muss ich ablesen?",
+			"stichwort": [ "ablesen", "Zählerstand" ],
+			"antwort": {
+				"text": "Ablesung der Zählerstände",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Musterkarte Ablesung_Strom.png"
+			}
+
+		},
+		{
+			"frage": "Mein Zähler wurde gewechselt wem muss ich das mitteilen?",
+			"stichwort": [ "gewechselt", "Zähler", "wechseln" ],
+			"antwort": {
+				"text": " Der Zählerwechsel wird von Ihrem Netzbetreiber durchgeführt und automatisch an Ihren Lieferanten übermittelt.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was bedeuten die Nummern auf meinem Zähler?",
+			"stichwort": [ "Nummern", "Zähler" ],
+			"antwort": {
+				"text": "Seriennummer/Zählernummer/OBIS Kennziffer(n) mit Erklärung markieren",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/moderne-messeinrichtung.png"
+				
+			}
+
+
+		},
+		{
+			"frage": "Was ist ein Smart-Meter?",
+			"stichwort": [ "Smart", "Meter", "Smart-Meter"],
+			"antwort": {
+				"text": "Unter Smart Metering versteht man das Erfassen von Stromverbrauchsdaten mit einem digitalen Stromzähler. Denn in der Umgangssprache bezeichnet der Begriff „Smart Meter“ einen digitalen Stromzähler. In diesem Zusammenhang unterscheidet man zwischen modernen Messeinrichtungen und intelligenten Messsystemen. ",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/slider_news_smart_meter_deutschland.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist ein intelligentes Messsystem?",
+			"stichwort": [ "Messsystem", "intelligentes" ],
+			"antwort": {
+				"text": "Ein intelligentes Messsystem ist eine moderne Messeinrichtung, die über ein Smart Meter Gateway in ein Kommunikationsnetz eingebunden ist. Dadurch ist ein intelligentes Messsystem in der Lage, den tatsächlichen Stromverbrauch und die Nutzungszeit zu messen, zu verarbeiten, zu verschlüsseln und an autorisierte Empfänger (z. B. an Ihren Stromversorger) zu versenden. ",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Was-ist-ein-intelligentes-Messsystem.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist eine moderne Messeinrichtung?",
+			"stichwort": [ "Messeinrichtung", "moderne" ],
+			"antwort": {
+				"text": "Eine moderne Messeinrichtung (mME) erfasst den tatsächlichen Stromverbrauch und die tatsächliche Nutzungszeit digital und speichert die Energieverbrauchswerte der letzten 24 Monate. Die bisher verwendeten analogen Zähler (Ferraris-Zähler) haben den Verbrauch mechanisch erfasst. Allerdings lässt sich eine mME um eine Kommunikationseinheit erweitern, das sogenannte Gateway. Mit dieser Ergänzung ist das System in der Lage, die Verbrauchsdaten auf einem sicheren Weg weiterzugeben. In Kombination mit einem Gateway wird aus der modernen Messeinrichtung ein intelligentes Messsystem",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/csm_mME_Ablseung_a1591d57e1.jpg"
+			}
+
+		},
+		{
+			"frage": "Wieso erhalte ich eine Ablesekarte von Ihnen und von meinem Netzbetreiber?",
+			"stichwort": [ "Ablesekarte", "Netzbetreiber" ],
+			"antwort": {
+				"text": "Ihr Netzbetreiber liest einmal jährlich Ihren Zählerstand ab um mit dem Lieferanten abzurechnen. Wir als Lieferant lesen ebenfalls den Zählerstand ab um Ihre Abrechnung zu erstellen. Die Abrechnungsintervalle von Netz und Lieferant sind jedoch oft nicht identisch. Daher erfolgen zwei Ableseaufforderungen.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was bedeuten HT und NT?",
+			"stichwort": [ "NT", "HT" ],
+			"antwort": {
+				"text": "",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Bild_02_Analoger_Haushaltszaehler_Doppeltarifzaehler.jpg"
+			}
+
+		},
+		{
+			"frage": "Mein Zähler ist kaputt oder mein Zählerstand verändert sich nicht, was muss ich tun?",
+			"stichwort": [ "Zähler", "kaputt" ],
+			"antwort": {
+				"text": "Bitte melden Sie den Zählerdefekt Ihrem Netzbetreiber. Dieser wird den Zähler prüfen und gegebenenfalls eine Verbrauchskorrektur erstellen. ",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist eine OBIS Kennziffer?",
+			"stichwort": [ "OBIS", "Kennziffer" ],
+			"antwort": {
+				"text": "Die OBIS Kennziffer dient als standartisierte Kennziffer um Zählwerke eindeutig zu bennenen und zu unterscheiden (Beispielsweise um Einspeisung und Entnahme nicht zu verwechseln oder um HT/NT zu unterscheiden).",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Ehinger-Energie-Zaehlerstand-2-Richtung-Bezug.jpg"
+			}
+
+		},
+		{
+			"frage": "Warum zählt mein Gaszähler in m³?",
+			"stichwort": [ "m³", "Gaszähler" ],
+			"antwort": {
+				"text": "Erdgas wird volumetrisch, das heißt in Kubikmetern (m³), gemessen. Das Betriebsvolumen ist abhängig von Druck und Temperatur. Die in m³ gemessene Menge Erdgas wird in Kilowattstunden (kWh) umgerechnet, damit es ohne den Einfluss von Druck und Temperatur abgerechnet werden kann. Dazu wird nach eichrechtlich anerkannten Regeln der Verbrauch in m³ mit der Zustandszahl z (z-Zahl) und dem Brennwert multipliziert. Die z-Zahl ist ein Korrekturfaktor, mit dem der Einfluss von Druck und Temperatur aufgehoben wird. Der Brennwert zeigt an, wie viel Energie im Erdgas enthalten ist.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/cheapenergy24-lexikon-gas-gasverbrauch-umrechnen.jpg"
+			}
+
+		},
+		{
+			"frage": "Wann erhalte ich meine Schlussrechnung oder Jahresrechnung?",
+			"stichwort": [ "Jahresrechnung", "Schlussrechnung" ],
+			"antwort": {
+				"text": "Laut Gesetzgebung (§ 40 Abs. 4 EnWG) ist festgelegt, dass nach Ende eines Abrechnungszeitraumes innerhalb von 6 Wochen eine Abrechnung erfolgen muss. In Einzelfällen fehlen jedoch Abrechnugnsrelevante Daten, sodass sich die Rechnungserstellung verzögern kann. ",
+				"bild": ""
+			}
+
+		},
+
+		{
+			"frage": "Kann ich eine Simulationsrechnung oder Zwischenrechnung bekommen?",
+			"stichwort": [ "Simulationsrechnung", "Zwischenrechnung" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+
+		{
+			"frage": "Warum wurde mein Zählerstand geschätzt?",
+			"stichwort": [ "Zählerstand", "geschätzt", "schätzen" ],
+			"antwort": {
+				"text": "Zur Erstellung Ihrer Abrechnung wird ein Zählerstand benötigt. Falls keine Ablesung durch Ihren Netzbetreiber und auch keine Kundenablesung vorliegt, wird Ihr Zählerstand geschätzt. ",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist ein Umrechnungsfaktor?",
+			"stichwort": [ "Umrechnungsfaktor" ],
+			"antwort": {
+				"text": "Bei Gaszählern wird der Verbrauch in Kubikmetern (m³) im Betriebszustand angegeben. Zur Bestimmung der für die Abrechnung maßgeblichen Wärmemenge in Kilowattstunden (kWh) wird dieser Wert gemäß DVGW-Arbeitsblattes G 685 „Gasabrechnung“ mit der vom Netzbetreiber mitgeteilten Zustandszahl und dem Brennwert multipliziert und so in kWh umgerechnet.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Musterrechnung1.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist ein Brennwert?",
+			"stichwort": [ "Brennwert" ],
+			"antwort": {
+				"text": "Mit dem Brennwert wird die Energiemenge bezeichnet, die bei der Verbrennung von Gas und der anschließenden Abkühlung der Abgase (Kondensationswärme) freigesetzt wird. Angegeben wird der Gas-Brennwert in Kilowattstunden pro Kubikmeter (kWh/m3).",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/gasabrechnungsbeispiel-2.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist die Zustandszahl?",
+			"stichwort": [ "Zustandszahl" ],
+			"antwort": {
+				"text": "Die Zustandszahl beschreibt das Verhältnis des Gasvolumens vom Normzustand zum Betriebszustand. Das Volumen des Gases wird beeinflusst von der Temperatur, die an der Abnahmestelle herrscht, und der Höhenlage, die für einen bestimmten Luftdruck sorgt. Um diesen Einflussfaktoren Rechnung zu tragen, wird die Zustandszahl bei der Volumenberechnung berücksichtigt. Mit ihr kann der Normzustand (Temperatur: 0 Grad Celsius, Luftdruck: 1.013,25 mbar) des gelieferten Gases berechnet werden.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/1499F4599A6_700x500.jpg"
+			}
+
+		},
+		{
+			"frage": "Woher erhalte ich Brennwert und Zustandszahl?",
+			"stichwort": [ "Zustandszahl", "Brennwert" ],
+			"antwort": {
+				"text": "BW/ZZ bekommen wir von Ihrem Netzbetreiber übermittelt. Sie haben ebenfalls die Möglichkeit BW/ZZ bei Ihrem Netzbetreiber zu erfragen.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/gasabrechnungsbeispiel-1.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist ein Abschlag?",
+			"stichwort": [ "Abschlag" ],
+			"antwort": {
+				"text": "Der Abschlag ist eine monatliche Teilzahlung Ihres Energieverbrauches. In Ihrer Jahresrechnung wird der genaue Energieverbrauch ermittelt. Haben Sie durch Ihre Abschlage zu viel bezahlt erhalten Sie ein Guthaben. Haben Sie durch Ihre Abschläge zu wenig gezahlt müssen Sie nachzahlen. ",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/beispielrechnung.png"
+			}
+
+		},
+		{
+			"frage": "Wie berechnet sich mein Abschlag?",
+			"stichwort": [ "Berechnen", "Abschlag", "Berechnet" ],
+			"antwort": {
+				"text": "Im Rahmen Ihrer letzten Abrechnung oder aufgrund der durchschnittlichen Energieverbräuche vergleichbarer Kunden, haben wir Ihre voraussichtlichen Energiekosten errechnet. Bezahlte Abschläge senken den Rechnungsbetrag. Ihren Verbrauch rechnen wir im Regelfall jährlich ab.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/berarbeitung_Abschlag.png"
+			}
+
+		},
+		{
+			"frage": "Was ist die Marktlokation?",
+			"stichwort": [ "Marktlokation" ],
+			"antwort": {
+				"text": "Die Marktlokations-Identifikationsnummer ist eine eindeutige Bezeichnung für eine Marktlokation im deutschen Energiemarkt. Sie ersetzt die für Marktlokationen bisher genutzte Zählpunktbezeichnung.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Grafik-MaLo-MeLo-1.png"
+			}
+
+		},
+		{
+			"frage": "Was ist die Messlokation?",
+			"stichwort": [ "Messlokation" ],
+			"antwort": {
+				"text": "Die Messlokation wird auch zukünftig über die Zählpunktbezeichnung identifiziert. Eine Messlokation ist ein Ort, an dem Energie gemessen wird und der alle technischen Einrichtungen beinhaltet, die zur Ermittlung und Übermittlung der Messwerte erforderlich sind.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Grafik-MaLo-MeLo-1.png"
+			}
+
+		},
+		{
+			"frage": "Was ist eine Netzbetreibernummer?",
+			"stichwort": [ "Netzbetreibernummer" ],
+			"antwort": {
+				"text": "Die Netzbetreibernummer dient der eindeutigen Identifikation des örtlichen Verteilnetzbetreibers, an dessen Netz die Lieferstelle angeschlossen ist.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist der Grundpreis?",
+			"stichwort": [ "Grundpreis" ],
+			"antwort": {
+				"text": "Der Grundpreis dient der Abdeckung der verbrauchsunabhängigen Kosten und setzt sich im Regelfall aus einem festen Leistungspreis und dem Verrechnungspreis (Zählerpreis) zusammen.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/ewp_zusammensetzung_des_strom_endpreises_1280_720.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist der Arbeitspreis?",
+			"stichwort": [ "Arbeitspreis" ],
+			"antwort": {
+				"text": "Der Energieverbrauch für die jeweilige Abrechnungsperiode wird in Kilowattstunden (kWh) ausgewiesen. Der Arbeitspreis bezeichnet den Preis für eine verbrauchte Kilowattstunde (kWh) Energie.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/ewp_zusammensetzung_des_strom_endpreises_1280_720.jpg"
+			}
+
+		},
+		{
+			"frage": "Was sind Netzentgelte?",
+			"stichwort": [ "Netzentgelte" ],
+			"antwort": {
+				"text": "Entgelte des Energienetzbetreibers für den Transport und die Verteilung der Energie sowie den damit verbundenen Dienstleistungen",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist die Konzessionsabgabe?",
+			"stichwort": [ "Konzessionsabgabe" ],
+			"antwort": {
+				"text": "Entgelte an die Kommune für die Mitbenutzung von öffentlichen Verkehrswegen durch Versorgungsleitungen. Daher wird auch die jeweilige Konzessionsabgabe seitens des Netzbetreibers weiterverrechnet und vom Lieferanten in Rechnung gestellt.\t",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/Konzessionsabgabe-Transparenz.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist die Stromsteuer?",
+			"stichwort": [ "Stromsteuer" ],
+			"antwort": {
+				"text": "Die Stromsteuer ist eine gesetzlich geregelte Verbrauchssteuer, die seit 1999 auf Grund des Gesetzes zur ökologischen Steuerreform erhoben wird. Besteuert wir der Verbrauch bzw. die Entnahme aus dem Netz im deutschen Steuergebiet. Die Stromsteuer wird vom Energieversorger erhoben und an den Fiskus abgeführt.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/stromsteuer-43258.png"
+			}
+
+		},
+		{
+			"frage": "Was ist die Gassteuer?",
+			"stichwort": [ "Gassteuer" ],
+			"antwort": {
+				"text": " Die Gassteuer ist eine gesetzlich geregelte Verbrauchssteuer, die seit 1999 auf Grund des Gesetzes zur ökologischen Steuerreform erhoben wird. Besteuert wird der Verbrauch bzw. die Entnahme aus dem Netz im deutschen Steuergebiet. Die Energiesteuer Erdgas wird vom Energieversorger erhoben und an den Fiskus abgeführt.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/energiesteuer-33398.png"
+			}
+
+		},
+		{
+			"frage": "Was ist die EEG Umlage?",
+			"stichwort": [ "EEG", "Umlage" ],
+			"antwort": {
+				"text": "Mit der EEG-Umlage wird die Erzeugung von Strom in Anlagen erneuerbarer Energieträger gefördert, die nach dem Erneuerbare-Energiegesetz (EEG) vergütet werden. Diese Kosten werden gemäß EEG auf alle Verbraucher umgelegt.",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/EEG Kreislauf.png"
+			}
+
+		},
+		{
+			"frage": "Was ist der Zuschlag nach dem Kraft-Wärme-Kopplungsgesetz (KWK)?",
+			"stichwort": [ "Zuschlag", "KWK" ],
+			"antwort": {
+				"text": "Kraft-Wärme-Kopplungs-(KWK) Anlagen erzeugen gleichzeitig Strom und Wärme. Dadurch wird ein höherer Nutzungsgrad erreicht, wodurch Brennstoff eingespart und Kohlendioxid-Emissionen gemindert werden können. Bertreiber von KWK-Anlagen erhalten einen gesetzlich festgelegten Zuschlag. Diese Kosten werden gemäß Kraft-Wärme-Kopplungsgesetz (KWKG) auf die Verbraucher umgelegt.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist die § 17 Offshore-Netzumlage?",
+			"stichwort": [ "Offshore", "Netzumlage" ],
+			"antwort": {
+				"text": "Die Netzbetreiber sind nach § 17f Abs. 5 EnWG berechtigt die Kosten für geleistete Entschädigungszahlungen als Aufschlag auf die Netzentgelte gegenüber Letztverbrauchern geltend zu machen.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist die § 19 Strom NEV-Umlage?",
+			"stichwort": [ "Strom", "NEV", "Umlage" ],
+			"antwort": {
+				"text": "Nach der Stromnetzentgeltverordnung (StromNEV), können Letztverbraucher ein individuelles Netzentgelt gemäß § 19 Abs. 2 Satz 1 bzw. Satz 2 StromNEV beantragen.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was sind Abschaltbare Lasten?",
+			"stichwort": [ "Lasten", " Abschaltbare" ],
+			"antwort": {
+				"text": "Dient auf der Grundlage des § 13 Abs. 4a und 4b EnWG der Versorgungssicherheit durch die Förderung abschaltbarer Verbrauchseinrichtungen.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Was ist der Messstellenbetrieb?",
+			"stichwort": [ "Messstellenbetrieb" ],
+			"antwort": {
+				"text": "Der Messstellenbetrieb umfasst den Ein- und Ausbau sowie den Betrieb und die Wartung von Zählern. Diese Kosten werden vom Netzbetreiber bzw. Messstellenbetreiber in Rechnung gestellt.\t",
+				"bild": "C:/Users/PR900162/Pictures/Saved Pictures/slider_news_messstellenbetrieb.jpg"
+			}
+
+		},
+		{
+			"frage": "Was ist die Messdienstleistung?",
+			"stichwort": [ "Messdienstleistung" ],
+			"antwort": {
+				"text": "Die Messung beinhaltet die Ermittlung des Energieverbrauchs sowie die Erfassung, Verwaltung und Bereitstellung der Zählerdaten. Diese Kosten werden vom Netzbetreiber bzw. Messdienstleister in Rechnung gestellt.",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Wann ist mein Lieferbeginn oder Lieferende?",
+			"stichwort": [ "Lieferbeginn", "Lieferende" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+
+		{
+			"frage": "Wie ist die Kündigungsfrist oder Vertragslaufzeit?",
+			"stichwort": [ "Kündigungsfrist", "Vertragslaufzeit" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+
+		{
+			"frage": "Zu welchem Datum kann ich kündigen?",
+			"stichwort": [ "Datum", "Kündigen" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Zu welchem Datum wird meine Jahresrechnung/Schlussrechnung erstellt?",
+			"stichwort": [ "Datum", "Jahresrechnung", "Schlussrechnung" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Verlängert sich der Vertrag automatisch?",
+			"stichwort": [ "Vertrag", "verlängern" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Kann ich meinen Vertrag widerrufen?",
+			"stichwort": [ "Vertrag", "widerrufen" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Mein Vertrag wurde gekündigt, wird mir Strom/Gas abgestellt?",
+			"stichwort": [ "Vertrag", "gekündigt", "kündigen", "abstellen", "abgestellt" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Wer ist mein Netzbetreiber? ",
+			"stichwort": [ "Netzbetreiber" ],
+			"antwort": {
+				"text": "direkte Nennung des jeweiligen VNB",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Habe ich ein Sonderkündigungsrecht bei Preisanpassung?",
+			"stichwort": [ "Sonderkündigungsrecht", "Preisanpassung" ],
+			"antwort": {
+				"text": "Ja bei einer Preisanpassung haben Sie ein Sonderkündigungsrecht",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Habe ich ein Sonderkündigungsrecht bei Umzug?",
+			"stichwort": [ "Sonderkündigungsrecht", "Umzug" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Ich möchte einen Vertrag übernehmen, geht das?",
+			"stichwort": [ "Vertrag", " übernehmen" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Kann ich den Vertrag zum Einzug rückwirkend abschließen?",
+			"stichwort": [ "Vertrag", "Einzug", "abschließen" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Wie ist mein aktueller Kontostand?",
+			"stichwort": [ "Kontostand" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Wohin kann ich überweisen?",
+			"stichwort": [ "überweisen" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Kann ich meinen Abschlag ändern?",
+			"stichwort": [ "Abschlag", "ändern" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Ist eine Ratenzahlung möglich?",
+			"stichwort": [ "Ratenzahlung" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		},
+		{
+			"frage": "Ist eine Stungung möglich?",
+			"stichwort": [ "Stungung" ],
+			"antwort": {
+				"text": "",
+				"bild": ""
+			}
+
+		}
+		
+
+	]
+}
